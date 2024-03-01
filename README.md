@@ -1,5 +1,7 @@
 AI upscaled versions of the beautiful 10 year birthday wallpapers using [Upscayl](https://www.upscayl.org/) and ULTRASHARP algorithm to make them usable (and non-pixelated) for current resolutions like 4K and 8K
 
+Original versions created by Ben Stedman and Alex Legler. License: CC BY-SA 4.0
+
 Zoomed in comparisons
 
 Left: 8K upscale
