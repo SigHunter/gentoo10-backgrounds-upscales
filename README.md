@@ -1,4 +1,4 @@
-Upscaled versions of the beautiful 10 year birthday wallpapers using upscayl and ULTRASHARP algorithm to make them usable (and non pixelated) on current resolutions
+AI upscaled versions of the beautiful 10 year birthday wallpapers using [Upscayl](https://www.upscayl.org/) and ULTRASHARP algorithm to make them usable (and non-pixelated) for current resolutions like 4K and 8K
 
 Zoomed in comparisons
 
